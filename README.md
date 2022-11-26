@@ -40,7 +40,7 @@ This is a web based application developed for health related based website in in
 
 ## Tech Stack 💻
 
-- Azure(Hosting)]
+- Azure(Hosting)
 - HTML
 - CSS
 - JavaScript
