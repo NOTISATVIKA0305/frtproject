@@ -6,7 +6,8 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://k-ovid.social/ AND https://notisatvika0305.github.io/frtproject/
-**project demo video link** - https://drive.google.com/file/d/1id_KDhNzKeND2QFQQnQc03gedJT4xfB-/view?usp=drivesdk
+**project demo video link** -https://drive.google.com/file/d/1nFYmVX_5OnhGRJG3ePrCelxVtT2PMsKJ/view?usp=drivesdk
+
 
 ## Azure technologies used for Project
 
